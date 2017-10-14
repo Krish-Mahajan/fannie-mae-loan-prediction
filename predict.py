@@ -1,4 +1,4 @@
-
+#Python function for prediction
 
 import os
 import settings 
